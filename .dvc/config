@@ -1,0 +1,4 @@
+[core]
+    remote = dummystorage
+['remote "dummystorage"']
+    url = ../S3
